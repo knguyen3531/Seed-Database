@@ -29,7 +29,7 @@ To run this application locally, follow these steps:
 
 Clone the Repository:
 
-git clone [repository URL]
+URL:https://knguyen3531.github.io/Seed-Database/
 Install Dependencies:
 Navigate to the root directory of the project and run:
 
